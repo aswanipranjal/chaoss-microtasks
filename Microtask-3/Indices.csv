@@ -1,0 +1,4 @@
+GitEnrich,GitHubEnrich,num_commits,num_issues,num_prs,repository,total
+aima_python_git,aima_python_github,81,57,116,aimacode/aima-python,254
+grimoireelk_git,grimoireelk_github,170,14,80,chaoss/grimoirelab-elk,264
+perceval_git,perceval_github,232,19,79,chaoss/grimoirelab-perceval,330
