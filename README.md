@@ -7,7 +7,7 @@ This repository contains the Microtasks for the project: Reporting CHAOSS mertic
 [X] **Microtask 2**: Produce a chart showing the distribution of time-to-close (using the corresponding field in the GrimoireLab enriched index for GitHub issues) for issues already closed, and opened during the last six months.
 ![time to close](https://github.com/aswanipranjal/chaoss-microtasks/blob/master/Images/time_to_close.png)
 
-[X] **Microtask 3**: Produce a listing of repositories, as a table and as CSV file, with the number of commits authored, issues opened, and pull requests opened, during the last three months, ordered by the total number (commits plus issues plus pull requests). The CSV file can be found [here](Microtask-3/Incides.csv)
+[X] **Microtask 3**: Produce a listing of repositories, as a table and as CSV file, with the number of commits authored, issues opened, and pull requests opened, during the last three months, ordered by the total number (commits plus issues plus pull requests). The CSV file can be found [here](Microtask-3/Indices.csv)
 
 **Microtask 4**: Perform any other analysis you may find interesting, based on GrimoireLab enriched indexes for git and GitHub repositories.
 
